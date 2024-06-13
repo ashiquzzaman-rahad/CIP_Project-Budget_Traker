@@ -1,0 +1,17 @@
+Budget Traker
+
+Features:
+1. Add your budget
+2. Add your expenses with category of expense and the date of expense
+3. Shows remaining budget every time an expense is added.
+4. Shows list of the expenses.
+5. User can search expense with category or date.
+6. User add to remaining budget.
+7. User is given a warning when the firstly added budget's 10% budget remains.
+8. All the data are saved in local text files.
+
+Data structures:
+1. Variable for budget.
+2. list for expense.
+3. list for category.
+4. list for date.
